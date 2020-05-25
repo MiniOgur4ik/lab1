@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2020.02.17 12:20:42.431,=C:\Users\Властелин\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2020.02.17 12:20:42.464,=C:\Users\Властелин\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2020.02.17 12:38:11.219,C:\Users\Властелин\Documents\Embarcadero\Studio\Projects\Lab1.h=C:\Users\Властелин\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>2020.02.17 12:38:11.219,C:\Users\Властелин\Documents\Embarcadero\Studio\Projects\Lab1.cpp=C:\Users\Властелин\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2020.02.17 12:38:11.219,C:\Users\Властелин\Documents\Embarcadero\Studio\Projects\Lab1.dfm=C:\Users\Властелин\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2020.02.17 12:38:34.353,C:\Users\Властелин\Documents\Embarcadero\Studio\Projects\Lab1\Lab1.cpp=C:\Users\Властелин\Documents\Embarcadero\Studio\Projects\Lab1.cpp</Transaction>
+    <Transaction>2020.02.17 12:38:34.353,C:\Users\Властелин\Documents\Embarcadero\Studio\Projects\Lab1\Lab1.h=C:\Users\Властелин\Documents\Embarcadero\Studio\Projects\Lab1.h</Transaction>
+    <Transaction>2020.02.17 12:38:34.353,C:\Users\Властелин\Documents\Embarcadero\Studio\Projects\Lab1\Lab1.dfm=C:\Users\Властелин\Documents\Embarcadero\Studio\Projects\Lab1.dfm</Transaction>
+    <Transaction>2020.02.17 14:52:24.063,C:\Users\Властелин\Documents\Embarcadero\Studio\Projects\Lab1\ProjectLab1.h=C:\Users\Властелин\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2020.02.17 14:53:30.446,C:\Users\Властелин\Documents\Embarcadero\Studio\Projects\Lab1\Project1Lab1.cbproj=C:\Users\Властелин\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>
